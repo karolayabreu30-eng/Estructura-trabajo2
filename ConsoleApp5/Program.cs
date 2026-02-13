@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         int num;
-        int mayor = int.MinValue; // Valor inicial muy pequeño
+        int mayor = int.MinValue;
 
         for (int i = 1; i <= 10; i++)
         {
